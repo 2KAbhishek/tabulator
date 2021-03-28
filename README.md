@@ -35,67 +35,38 @@
 
 ## Inspiration
 
-Bareminimum was inspired by `<reason/idea>`.
+I was trying to center a table in the page, also wanted to play around with the `eval` method.
 
 ## What it does
 
-tabulator is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+tabulator is a calculator with limited functionality, completely buil inside a `<table>` element.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of `<coding_language/dependency/requirement_1>`
+- You just need a browser and text editor.
 
-## Installing tabulator
+## Getting tabulator
 
 To install tabulator, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/tabulator
 cd tabulator
-<install_command>
-```
-
-## Using tabulator
-
-```bash
-USAGE:
-    command [FLAGS] [OPTIONS]
-
-FLAGS:
-    -h, --help              Prints help information.
-
-OPTIONS:
-    -o, --option <value>    Option description.
-    Options are: a, b. [default: a]
-
-Example:
-
-
 ```
 
 ## How it was built
 
-tabulator was built using `<tech/library>`
+tabulator was built using Vanilla JS, HTML5 and CSS.
 
 ## Challenges faced
 
-While building tabulator the main challenges were `<issue/difficulty>`
+While building tabulator the main challenges were figuring out gradients and box-shadow, I was trying to match the look and feel of a real calculator.
 
 ## What I learned
 
-While building tabulator I `<learned/accomplished>` about `<learning/accomplishment>`
-
-## What's next
-
-Add colors to the UI, a configuration management system.
-
-### To-Do
-
-- [x] Setup repo
-- [ ] Think real hard
-- [ ] Start typing
+While building tabulator I learned more about centering elements, gradients, shadows and the eval method.
 
 Hit the :star: button if you found this useful.
 
