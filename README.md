@@ -23,10 +23,10 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>Short sweet headline with 🎇🎉</h2>
+<h2>A calculator in a table 📟📈</h2>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/tabulator/master/images/screenshot.jpg" alt="tabulator Demo" style="width:100%; margin-left:auto; margin-right:auto; display: block">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/tabulator/master/images/screenshot.jpg" alt="tabulator Demo" style="width:100%">
   <br/>
   <figcaption>tabulator Screenshot</figcaption>
 </figure>
