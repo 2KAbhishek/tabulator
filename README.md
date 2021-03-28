@@ -27,6 +27,7 @@
 
 <figure>
   <img src= "https://raw.githubusercontent.com/2KAbhishek/tabulator/master/images/screenshot.jpg" alt="tabulator Demo" style="width:100%; margin-left:auto; margin-right:auto; display: block">
+  <br/>
   <figcaption>tabulator Screenshot</figcaption>
 </figure>
 
