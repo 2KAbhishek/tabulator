@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Getting tabulator
 
-To install tabulator, follow these steps:
+To get tabulator, follow these steps:
 
 ```bash
 git clone https://github.com/2kabhishek/tabulator
