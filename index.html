@@ -9,7 +9,7 @@
     <title>Calculator</title>
   </head>
   <body>
-    <table border="1">
+    <table>
       <tr>
         <td colspan="3"><input type="text" id="result" /></td>
       </tr>
@@ -30,16 +30,22 @@
       </tr>
       <tr>
         <td><input type="button" value="0" onclick="dis('0')" /></td>
-        <td><input type="button" class="sign" value="+" onclick="dis('+')" /></td>
-        <td><input type="button" class="sign" value="-" onclick="dis('-')" /></td>
+        <td>
+          <input type="button" class="sign" value="+" onclick="dis('+')" />
+        </td>
+        <td>
+          <input type="button" class="sign" value="-" onclick="dis('-')" />
+        </td>
       </tr>
       <tr>
-        <td><input type="button" class="sign" value="*" onclick="dis('*')" /></td>
-        <td><input type="button" class="sign" value="/" onclick="dis('/')" /></td>
+        <td>
+          <input type="button" class="sign" value="*" onclick="dis('*')" />
+        </td>
+        <td>
+          <input type="button" class="sign" value="/" onclick="dis('/')" />
+        </td>
         <td><input type="button" id="equals" value="=" onclick="solve()" /></td>
       </tr>
     </table>
-  </body>
-
   </body>
 </html>
