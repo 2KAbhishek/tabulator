@@ -26,7 +26,7 @@
 <h2>Short sweet headline with 🎇🎉</h2>
 
 <figure>
-  <img src= "https://raw.githubusercontent.com/2KAbhishek/tabulator/master/images/screenshot.jpg" alt="tabulator Demo" style="width:100%">
+  <img src= "https://raw.githubusercontent.com/2KAbhishek/tabulator/master/images/screenshot.jpg" alt="tabulator Demo" style="width:100%; margin-left:auto; margin-right:auto; display: block">
   <figcaption>tabulator Screenshot</figcaption>
 </figure>
 
