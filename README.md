@@ -23,7 +23,7 @@
 <a href="https://github.com/2KAbhishek?tab=followers">
 <img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
 
-<h2>A calculator in a table 📟📈</h2>
+<h3>A calculator in a table 📟📈</h3>
 
 <figure>
   <img src= "https://raw.githubusercontent.com/2KAbhishek/tabulator/master/images/screenshot.jpg" alt="tabulator Demo" style="width:100%">
